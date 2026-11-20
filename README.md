@@ -2,7 +2,7 @@
 
 This repository serves as a collection of practical projects developed for **teaching and training students** in **Artificial Intelligence (AI)**, **Machine Learning (ML)**, and **Natural Language Processing (NLP)**.
 
-These projects are designed to bridge the gap between theoretical concepts and real-world applications. Each project walks through the end-to-end workflow—from data preprocessing and exploratory analysis to model building, evaluation, and deployment—helping learners gain hands-on experience.
+These projects are designed to bridge the gap between theoretical concepts and real-world applications. Each project walks through different Domains.
 
 ## Focus Areas Covered
 
